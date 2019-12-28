@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to 前端期末第二题
+## 下面会展示部分作业的截图证明（源码以及仓库地址可点击页面最上方- View on GitHub 进行查看）
 
-You can use the [editor on GitHub](https://github.com/EasonQXF/QianDuanFinal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 1. VUE2前端框架搭建
+- ![VUE2前端框架搭建](https://raw.githubusercontent.com/EasonQXF/QianDuanFinal/master/3.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 2. 用Mui框架制作单页面组件，并路由实现访问
+- ![Mui框架](https://raw.githubusercontent.com/EasonQXF/QianDuanFinal/master/mui%E6%A1%86%E6%9E%B6/1.png)
+- ![Mui框架](https://raw.githubusercontent.com/EasonQXF/QianDuanFinal/master/mui%E6%A1%86%E6%9E%B6/2.png)
+- ![Mui框架](https://raw.githubusercontent.com/EasonQXF/QianDuanFinal/master/mui%E6%A1%86%E6%9E%B6/3.png)
+- ![Mui框架](https://raw.githubusercontent.com/EasonQXF/QianDuanFinal/master/mui%E6%A1%86%E6%9E%B6/4.png)
+- ![Mui框架](https://raw.githubusercontent.com/EasonQXF/QianDuanFinal/master/mui%E6%A1%86%E6%9E%B6/%E6%9B%B4%E6%8D%A2%E6%A0%B9.png)
 
-### Markdown
+### 3. 用Element-ui框架设计基于PC端的网站设计
+![Element-ui框架](https://raw.githubusercontent.com/EasonQXF/QianDuanFinal/master/Element-ui%E6%A1%86%E6%9E%B6/%E5%8A%A0%E5%85%A5%E4%BE%A7%E8%BE%B9%E5%AF%BC%E8%88%AA.png)
+![Element-ui框架](https://raw.githubusercontent.com/EasonQXF/QianDuanFinal/master/Element-ui%E6%A1%86%E6%9E%B6/%E5%B8%83%E5%B1%80%E5%AE%B9%E5%99%A8.png)
+![Element-ui框架](https://raw.githubusercontent.com/EasonQXF/QianDuanFinal/master/Element-ui%E6%A1%86%E6%9E%B6/%E5%BC%80%E5%90%AF%E5%AF%BC%E8%88%AA%E5%9B%9B.png)
+![Element-ui框架](https://raw.githubusercontent.com/EasonQXF/QianDuanFinal/master/Element-ui%E6%A1%86%E6%9E%B6/%E8%A1%A8%E5%8D%95.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 4. 用基于VUE3搭建（Cube-ui）框架，设调试仿京东App。
+![Cube-ui](https://raw.githubusercontent.com/EasonQXF/QianDuanFinal/master/jingdong.jpg)
 
-```markdown
-Syntax highlighted code block
+### 5. 安装Mpvue框架
+![Mpvue](https://raw.githubusercontent.com/EasonQXF/QianDuanFinal/master/mpvue.png)
 
-# Header 1
-## Header 2
-### Header 3
+### 6. 在https://www.dcloud.io/下载商城插件，修改相关信息
+![商城](https://raw.githubusercontent.com/EasonQXF/QianDuanFinal/master/Simple-store/%E4%BA%8C-%E5%85%AD.png)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EasonQXF/QianDuanFinal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 第二题展示如上（源码仓库点击页面最顶部View on GitHub）
