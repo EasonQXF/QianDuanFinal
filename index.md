@@ -1,5 +1,6 @@
 ## Welcome to 前端期末第二题
-## 下面会展示部分作业的截图证明（源码以及仓库地址可点击页面最上方- View on GitHub 进行查看）
+## 下面会展示部分作业的截图证明
+## （源码以及仓库地址可点击页面最上方- View on GitHub 进行查看）
 
 ### 1. VUE2前端框架搭建
 - ![VUE2前端框架搭建](https://raw.githubusercontent.com/EasonQXF/QianDuanFinal/master/3.png)
