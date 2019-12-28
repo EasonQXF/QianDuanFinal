@@ -26,4 +26,4 @@
 ### 6. 在https://www.dcloud.io/下载商城插件，修改相关信息
 ![商城](https://raw.githubusercontent.com/EasonQXF/QianDuanFinal/master/Simple-store/%E4%BA%8C-%E5%85%AD.png)
 
-- 第二题展示如上（源码仓库点击页面最顶部View on GitHub）
+- （源码仓库点击页面最顶部View on GitHub）
